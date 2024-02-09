@@ -7,8 +7,7 @@
 
 [![Linkedin: arthur](https://img.shields.io/badge/-arthur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-felipe-p-singh/)](https://www.linkedin.com/in/arthur-felipe-41bab8166)
 
-[![instagram: arthur](https://img.shields.io/badge/-arthur-blue?style=flat-square&logo=instagram&logoColor=white&link=https:/www.instagram.com/arthur____felipe/-p-singh/)]
-(https://www.instagram.com/arthur____felipe/)
+[![instagram: arthur](https://img.shields.io/badge/-arthur-blue?style=flat-square&logo=instagram&logoColor=white&link=https:/www.instagram.com/arthur____felipe/-p-singh/)](https://www.instagram.com/arthur____felipe/)
 
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
 ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
