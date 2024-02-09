@@ -5,7 +5,7 @@
 </em></p>
 
 
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/arthur-felipe-41bab8166)
+[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-felipe-p-singh/)](https://www.linkedin.com/in/arthur-felipe-41bab8166)
 ![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
 ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
